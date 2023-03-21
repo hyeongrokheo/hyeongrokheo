@@ -1,6 +1,4 @@
 
-[Download CV (updated at 2023.03.14)](https://hhr.kr/downloads/hyeongrok-cv-230314.pdf){:download="hyeongrok-cv-230314.pdf"}
-
 # Details
 - Korea, Republic of
 - mobile : +82 10-9979-6407

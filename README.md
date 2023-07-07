@@ -6,7 +6,7 @@
 - [https://github.com/hyeongrokheo](https://github.com/hyeongrokheo){:target="_blank"}
 - [https://www.linkedin.com/in/hyeongrok-heo-311675198/](https://www.linkedin.com/in/hyeongrok-heo-311675198/){:target="_blank"}
 
-# Hilights
+# Highlights
 - 부산대학교 컴퓨터공학 학부 및 석사 졸업
 - Back-end 개발 현업 4년차 (Python, Flask, Django, Ruby on Rails)
 - Programmers 및 Monito 평가서비스 개발

@@ -11,6 +11,11 @@
 - Back-end 개발 현업 4년차 (Python, Flask, Django, Ruby on Rails)
 - Programmers 및 Monito 평가서비스 개발
 - [acmicpc.net(solved.ac) 레이팅 상위 3.35%](https://solved.ac/profile/syndrome5044), 탑프로그래머스 뱃지 보유 (데브매칭 상위 0.6%)
+- 오늘의집 콘텐츠 서비스 개발
+
+오늘의집 Content Platform팀의 Backend Engineer로 23년 5월부터 근무중입니다
+
+https://ohou.se/
 
 Django 혹은 Ruby on Rails 백엔드 엔지니어로 23년 3월까지 그렙에서 프로그래머스, 모니토 온라인 화상시험 서비스를 개발했습니다.
 
